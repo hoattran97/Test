@@ -1,2 +1,3 @@
 Name: Hoattran
 React native
+Học git và github
